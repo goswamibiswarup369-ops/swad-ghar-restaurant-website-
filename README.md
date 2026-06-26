@@ -5,7 +5,7 @@ Responsive single-page website for Swad Ghar, an Indian home restaurant in Dhatr
 <h1 align="center">Hi, I'm Biswarup 👋</h1>
 
 <p align="center">
-  <b>From Krishnanagar, West Bengal • Building Swad Ghar and learning web development</b>
+  <b>From Dhatrigram, West Bengal • Building Swad Ghar and learning web development</b>
 </p>
 
 ---
