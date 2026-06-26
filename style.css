@@ -1,0 +1,57 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#home {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #ffc107;
+  color: #000;
+}
+
+.nav-pills .nav-link {
+  color: #6c757d;
+  font-weight: 500;
+}
+
+.card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12) !important;
+}
+
+hr.border-warning {
+  border-width: 3px !important;
+}
+
+.avatar {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+
+footer a:hover {
+  color: #ffc107 !important;
+  transition: color 0.2s ease;
+}
+
+.badge-spicy {
+  background-color: #dc3545;
+  color: white;
+  font-size: 0.7rem;
+  padding: 3px 7px;
+  border-radius: 4px;
+}
