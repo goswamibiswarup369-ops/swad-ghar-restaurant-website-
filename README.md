@@ -39,8 +39,7 @@ A responsive single-page restaurant website with:
 - Guest testimonials for local customers (Kolkata, Kalna, Dhatrigram).
 - Simple reservation form with a success message.
 
-👉 _Repo link will go here once it’s public_:  
-`https://github.com/goswamibiswarup369-ops/swad-ghar-restaurant-website` (replace with the actual link when ready)
+
 
 ---
 
